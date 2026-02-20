@@ -7,8 +7,7 @@ I am a Data Science freshman passionate about turning raw numbers into meaningfu
 - Tools: Git, GitHub, Jupyter Notebooks
 
 # 📂 Featured Project
-- Nightingale-Rose
-- [Live Project](https://ywang-debug.github.io/nightingale-rose/)
+- [Nightingale-Rose](https://ywang-debug.github.io/nightingale-rose/)
 A data visualization project recreating Florence Nightingale's famous polar area diagram. This repository explores historical data trends using Python and custom matplotlib configurations to demonstrate the impact of sanitary improvements.
 
 # 📚 Currently Learning
