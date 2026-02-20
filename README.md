@@ -14,3 +14,5 @@ A data visualization project recreating Florence Nightingale's famous polar area
 - Advanced Statistical Modeling
 - SQL for Data Analysis
 - Introductory Machine Learning (Scikit-Learn)
+
+# 🌐 What I'm Curious About in Data Science
