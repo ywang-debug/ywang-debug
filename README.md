@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**ywang-debug/ywang-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hello, I'm Yi Wang!
+I am a Data Science freshman passionate about turning raw numbers into meaningful stories. I enjoy exploring datasets and building visualizations that help make complex information accessible to everyone.
+🛠 Skills
+Languages: Python (Pandas, NumPy)
+Data Visualization: Matplotlib, Seaborn
+Tools: Git, GitHub, Jupyter Notebooks
+📂 Featured Project
+Nightingale-Rose
+A data visualization project recreating Florence Nightingale's famous polar area diagram. This repository explores historical data trends using Python and custom matplotlib configurations to demonstrate the impact of sanitary improvements.
+📚 Currently Learning
+Advanced Statistical Modeling
+SQL for Data Analysis
+Introductory Machine Learning (Scikit-Learn)
