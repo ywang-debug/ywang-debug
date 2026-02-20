@@ -16,3 +16,4 @@ A data visualization project recreating Florence Nightingale's famous polar area
 - Introductory Machine Learning (Scikit-Learn)
 
 # 🌐 What I'm Curious About in Data Science
+- Develop algorithms (such as classification and regression) to predict future outcomes.
